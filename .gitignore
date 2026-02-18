@@ -1,0 +1,32 @@
+# Environment
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.pth
+*.pt
+*.keras
+*.pkl
+
+# Datasets
+datasets/
+*.smi
+*.csv
+*.txt
+*.nii
+*.nii.gz
+
+# Static generated outputs
+static/
+uploads/
+
+# Node
+node_modules/
+
+# Large binaries
+*.zip
+*.exe
+*.dll
